@@ -24,6 +24,20 @@ I enjoy building projects, exploring new technologies, and continuously growing 
 
 ---
 
+## 🎓 Education History
+
+- **Sekolah Dasar Islam Nabilah**  
+  *(2013 - 2019)*  
+  Completed primary education as the foundation of academic learning and personal growth.
+
+- **SMP Negeri 12 Batam**  
+  *(2019 - 2022)*  
+  Developed academic knowledge and social skills during junior high school years.
+
+- **SMK Negeri 7 Batam** — **Software Engineering Major**  
+  *(2022 - 2025)*  
+  Specialized in software engineering, learning programming fundamentals, database systems, and application development.
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,5 +66,5 @@ I enjoy building projects, exploring new technologies, and continuously growing 
 ---
 
 <p align="center">
-  ✨ "Keep learning, keep building, and keep growing." ✨
+  ✨ "Life is like a code. sometimes it has errors, but it still keeps running. ." ✨
 </p>
