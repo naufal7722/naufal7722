@@ -26,7 +26,7 @@ I enjoy building projects, exploring new technologies, and continuously growing 
 
 ## 🎓 Education History
 
-- **Sekolah Dasar Islam Nabilah**  
+- **SD Islam Nabilah**  
   *(2013 - 2019)*  
   Completed primary education as the foundation of academic learning and personal growth.
 
