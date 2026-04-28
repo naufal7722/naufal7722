@@ -22,21 +22,6 @@
 I am currently studying at **Politeknik Negeri Batam**, where I am focused on learning and improving my skills in **Software Engineering**.  
 I enjoy building projects, exploring new technologies, and continuously growing as a developer.
 
----
-
-## 🎓 Education History
-
-- **SD Islam Nabilah**  
-  *(2013 - 2019)*  
-  Completed primary education as the foundation of academic learning and personal growth.
-
-- **SMP Negeri 12 Batam**  
-  *(2019 - 2022)*  
-  Developed academic knowledge and social skills during junior high school years.
-
-- **SMK Negeri 7 Batam** — **Software Engineering Major**  
-  *(2022 - 2025)*  
-  Specialized in software engineering, learning programming fundamentals, database systems, and application development.
 
 ## 📊 GitHub Stats
 
