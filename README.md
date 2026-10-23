@@ -27,7 +27,7 @@ const naufal = {
   location:  "Batam, Indonesia 🇮🇩",
   stack:     ["PHP", "Laravel", "Blade", "MySQL", "JavaScript"],
   currently: "Sharpening my skills in web development",
-  motto:     "Ship it, learn from it, improve it.",
+  motto:     "Dream big, code hard, debug harder.",
 };
 ```
 
